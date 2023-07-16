@@ -1,0 +1,7 @@
+---
+title: "Math Problem"
+date: 2023-07-16T14:21:54+03:00
+draft: false
+---
+
+One of the main problem in teaching mathematics is the lacking of the context, In the universities in general they don’t provide the context when it comes to interpret some of the theories. So the student ended up with a lot of jargons that don’t help him to reason about the problem that the math solve. For example if we took the the fundamental theorem of calculus — which is the links between integral and derivative. One of the main problem in teaching mathematics is the lacking of the context, In the universities in general they don’t provide the context when it comes to interpret some of the theories. So the student ended up with a lot of jargons that don’t help him to reason about the problem that the math solve. For example if we took the the fundamental theorem of calculus — which is the links between integral and derivative. One of the main problem in teaching mathematics is the lacking of the context, In the universities in general they don’t provide the context when it comes to interpret some of the theories. So the student ended up with a lot of jargons that don’t help him to reason about the problem that the math solve. For example if we took the the fundamental theorem of calculus — which is the links between integral and derivative.

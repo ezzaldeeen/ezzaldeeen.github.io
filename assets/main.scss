@@ -1,0 +1,45 @@
+---
+---
+
+@import "minima";
+
+.footer-col-wrapper {
+    font-size: 15px;
+    font-weight: 300;
+    color: #828282;
+    margin-left: -15px;
+}
+
+.post-title {
+    font-size: 42px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.post-sub-title {
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: -0.25px;
+    line-height: 1.1;
+    color: #5d5d5d;
+}
+ 
+.post-overview {
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: -0.25px;
+    line-height: 1.2;
+    color: #5d5d5d;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+.highlight {
+  margin-bottom: 15px;
+}
+
+.post-link-title {
+    margin-bottom: 4px;
+}

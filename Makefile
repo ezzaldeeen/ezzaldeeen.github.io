@@ -14,7 +14,7 @@ draft:
 	@bundle exec jekyll draft "$(title)"
 
 publish:
-	@bundle exec jekyll publish "$(title)"
+	@bundle exec jekyll publish _drafts/$(title).md
 
 clean:
 	@bundle exec jekyll clean
